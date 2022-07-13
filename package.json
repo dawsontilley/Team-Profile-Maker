@@ -1,0 +1,22 @@
+{
+  "name": "team-profile-maker",
+  "version": "1.0.0",
+  "description": "Makes a profile for teams",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawsontilley/Team-Profile-Maker.git"
+  },
+  "author": "dawson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dawsontilley/Team-Profile-Maker/issues"
+  },
+  "homepage": "https://github.com/dawsontilley/Team-Profile-Maker#readme",
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  }
+}
